@@ -1,8 +1,6 @@
 ol {
   list-style-type:upper-latin;
 }
-
-
 table {
   font-family:arial, sans-serif;
   border-collapse:collapse;
@@ -23,8 +21,6 @@ tr:nth-child(1) {
 tr:nth-child(even) {
   background-color:lightslategrey;
 }
-
-
 
 p1 {
   color:red;
